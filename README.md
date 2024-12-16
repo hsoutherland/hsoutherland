@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hunter, an IT Professional</h1>
+<h1>Hi, I'm Hunter, an <a href="https://www.linkedin.com/in/hunter-southerland-96493b260/"> IT Professional 😁</h1>
 
 <h2>Information Technology Projects:</h2>
 
