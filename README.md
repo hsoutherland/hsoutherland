@@ -13,4 +13,6 @@
  
 <h2>Connect with me:</h2>
 
-<img src="https://github.com/user-attachments/assets/4b08ac37-7771-4838-bfab-ce6bdc557a8a" height="50" width="140"/>
+[<img align="left" alt="Hunter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]=(https://www.linkedin.com/in/hunter-southerland-96493b260)
