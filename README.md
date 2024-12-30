@@ -13,6 +13,7 @@
  
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Hunter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/hunter-southerland-96493b260">
+  <img src="https://logosmarcas.net/wp-content/uploads/2020/03/LinkedIn-Emblema.png" alt="LinkedIn" width="100" align="left"/>
+</a>
 
-[linkedin]=(https://www.linkedin.com/in/hunter-southerland-96493b260)
