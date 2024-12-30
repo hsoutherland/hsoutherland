@@ -12,4 +12,5 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hsoutherland/azure-network-protocols)
  
 <h2>Connect with me:</h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/hunter-southerland-96493b260)
+
+<img src="https://github.com/user-attachments/assets/4b08ac37-7771-4838-bfab-ce6bdc557a8a" height="50" width="140"/>
